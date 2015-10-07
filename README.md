@@ -5,4 +5,4 @@ A simple app that makes use of Service Workers to enable offline access. It's a 
 
 [Blog post](http://blog.lamplightdev.com/2015/01/06/A-Simple-ServiceWorker-App/)
 
-[Demo](https://lamplightdev.github.io/r3search/)
+[Demo](https://rtio.github.io/r3search/)
